@@ -1,8 +1,8 @@
 # Project 2 - *Twitter App*
 
-**Name of your app** is an android app that allows a user to view her Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+Twitter app is an android app that allows a user to view her Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **30** hours spent in total
+Time spent: **50** hours spent in total
 
 ## User Stories
 
@@ -48,7 +48,7 @@ I am still trying to add the relative timestamp to display on the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
